@@ -1,0 +1,6 @@
+[submodule "Lib/MGImageUtilities"]
+	path = Lib/MGImageUtilities
+	url = https://github.com/brackendev/MGImageUtilities.git
+[submodule "Lib/UIImage-PDF"]
+	path = Lib/UIImage-PDF
+	url = https://github.com/brackendev/UIImage-PDF.git
