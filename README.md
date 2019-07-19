@@ -5,6 +5,7 @@ _With the release of the iPhone 6 Plus and ["the weirdness of the resolution,"](
 iOS Resolution Independence Example (Objective-C)
 =================================================
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f71d2c69c9cc47959a5cd3eb9ca0d1e2)](https://www.codacy.com/app/brackendev/iOS-Resolution-Independence-Objective-C?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=brackendev/iOS-Resolution-Independence-Objective-C&amp;utm_campaign=Badge_Grade)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrackendev%2FReadability-Objective-C.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbrackendev%2FReadability-Objective-C?ref=badge_shield)
 
 **An iOS example of adding resolution independence and future-proofing your app by using vector graphics.**
 
