@@ -13,7 +13,7 @@ This project displays a PDF file as different sizes and colors.
 
 ## Installation and Usage
 
-1. Git clone this repository. [MGImageUtilities](http://github.com/brackendev/MGImageUtilities) and [UIImage-PDF](https://github.com/brackendev/UIImage-PDF) submodules are required, therefore be sure to clone like this:
+1. Git clone this repository. [MGImageUtilities](https://github.com/brackendev/MGImageUtilities) and [UIImage-PDF](https://github.com/brackendev/UIImage-PDF) submodules are required, therefore be sure to clone like this:
 
     ```bash
     git clone --recursive https://github.com/brackendev/iOS-Resolution-Independence-Objective-C.git
@@ -24,6 +24,13 @@ This project displays a PDF file as different sizes and colors.
 ## Ports
 
 * [Swift](http://brackendev.github.io/iOS-Resolution-Independence-Swift/)
+
+## Acknowledgements
+
+This project makes use of the following third-party libraries:
+
+* [MGImageUtilities](https://github.com/brackendev/MGImageUtilities)
+* [UIImage-PDF](https://github.com/brackendev/UIImage-PDF)
 
 ## Author
 
