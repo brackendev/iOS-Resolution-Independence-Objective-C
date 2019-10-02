@@ -21,7 +21,7 @@ git clone --recursive https://github.com/brackendev/iOS-Resolution-Independence-
 
 ## Ports
 
-* [Swift](http://brackendev.github.io/iOS-Resolution-Independence-Swift/)
+* [Swift](https://github.com/brackendev/iOS-Resolution-Independence-Swift)
 
 ## Acknowledgements
 
