@@ -43,7 +43,7 @@ iOS-Resolution-Independence-Objective-C is released under the MIT license. See t
 ## PDF Tips
 
 * [UIImage-PDF](https://github.com/mindbrix/UIImage-PDF) didn't like the PDF file that Adobe Illustrator made. So, instead of saving to PDF, save it to EPS, open it in Preview, then save it to PDF.
-* Use Panic's [ShrinkIt](http://www.panic.com/blog/shrinkit-1-2/) to trim the PDF size.
+* Use Panic's [ShrinkIt](http://www.panic.com/blog/shrinkit-1-2/) to reduce the PDF size.
 
 ## Useful Links
 
