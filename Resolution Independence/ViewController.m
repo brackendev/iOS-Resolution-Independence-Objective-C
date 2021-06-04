@@ -2,8 +2,8 @@
 //  ViewController.m
 //  Vector Example
 //
-//  Created by brackendev.
-//  Copyright (c) 2012-2019 brackendev. All rights reserved.
+//  Created by Bracken Spencer.
+//  Copyright (c) 2012-2021 Bracken Spencer. All rights reserved.
 //
 
 #import "ViewController.h"
