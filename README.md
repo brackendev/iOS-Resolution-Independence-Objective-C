@@ -9,10 +9,6 @@ iOS Resolution Independence Example (Objective-C)
 
 This project displays a PDF file as different sizes and colors.
 
-## TODO
-
-- [ ] Support latest iOS SDK
-
 ## Installation
 
 [MGImageUtilities](https://github.com/brackendev/MGImageUtilities) and [UIImage-PDF](https://github.com/brackendev/UIImage-PDF) submodules are required, therefore be sure to git clone like this:
